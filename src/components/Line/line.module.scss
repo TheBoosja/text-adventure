@@ -1,0 +1,29 @@
+.line {
+	font-size: 1.6rem;
+	line-height: 1.5;
+	font-family: 'Roboto Mono';
+
+	&.normal {
+		font-family: 'Roboto Mono';
+	}
+
+	&.typeface {
+		font-family: 'Special Elite';
+	}
+
+	&.title {
+		font-family: 'Lobster';
+		text-transform: uppercase;
+		font-size: 2rem;
+		line-height: 2;
+		letter-spacing: 2px;
+	}
+
+	&.error {
+		color: red;
+	}
+}
+
+.space {
+	margin-top: 2rem;
+}

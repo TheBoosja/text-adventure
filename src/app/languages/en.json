@@ -1,0 +1,41 @@
+{
+	"translation": {
+		"INTRO-1": "World of Misguided Elaborations of Hogwash",
+		"INTRO-2": "You wake up in a room, disoriented.",
+		"INTRO-3": "Enter 'start' to begin",
+
+		"LANG-1": "Change language",
+
+		"DIRECTION-1": "north",
+		"DIRECTION-2": "east",
+		"DIRECTION-3": "south",
+		"DIRECTION-4": "west",
+		"DIRECTION-5": "up",
+		"DIRECTION-6": "down",
+
+		"ROOM-1": "You are in",
+		"ROOM-2": "You see doors",
+		"ROOM-EMPTY-1": "a stripped room with nothing in it",
+		"ROOM-STUDY-1": "an old study",
+		"ROOM-MEDICALLAB-1": "a medical lab",
+		"ROOM-LIVINGROOM-1": "a living room",
+		"ROOM-BEDROOM-1": "an abandoned bedroom",
+		"ROOM-GARDEN-1": "a bright garden filled with all sorts of greenery",
+		"ROOM-COMPUTERROOM-1": "an air-conditioned computerroom",
+		"ROOM-OFFICE-1": "an office with meticulously placed desks",
+		"ROOM-COMMROOM-1": "a communications room with a heavy metal column in the center",
+		"ROOM-DUNGEON-1": "a medieval dungeon with a collection of tortur devices",
+		"ROOM-CLASSROOM-1": "a chalky classroom half overturned",
+
+		"ACTION-ERR-1": "I don't know what you are on about...",
+		"ACTION-ERR-2": "You can't do that here...",
+		"ACTION-ERR-3": "Go where?",
+		"ACTION-ERR-4": "There is no door that way!",
+		"ACTION-3": "Your actions are",
+		"ACTION-UNKNOWN": "unknown",
+		"ACTION-HELP": "help",
+		"ACTION-START": "start",
+		"ACTION-GO": "go",
+		"ACTION-QUIT": "quit"
+	}
+}
